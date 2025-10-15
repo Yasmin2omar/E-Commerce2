@@ -971,6 +971,20 @@ iframe {
 
 
 
+.single_slider {
+  display: flex !important;
+  align-items: center !important;
+  justify-content: center !important;
+  min-height: 100vh !important;
+}
+
+.single_slider .slider_content {
+  text-align: left;
+}
+
+.single_slider .row {
+  align-items: center !important;
+}
 
 
 

@@ -1,4 +1,4 @@
-<?php require_once "./layouts/header.php"; ?>
+<?php require_once __DIR__ . "./layouts/header.php"; ?>
     <!--header area end-->
 
     <!--breadcrumbs area start-->
@@ -8,7 +8,7 @@
                 <div class="col-12">
                     <div class="breadcrumb_content">
                         <ul>
-                            <li><a href="index-2.php">home</a></li>
+                            <li><a href="home.php">home</a></li>
                             <li>404 page</li>
                         </ul>
                     </div>
@@ -38,4 +38,4 @@
         
 
     <!--footer area start-->
-    <?php require_once("./layouts/footer.php"); ?>
+    <?php require_once __DIR__ . "./layouts/footer.php"; ?>

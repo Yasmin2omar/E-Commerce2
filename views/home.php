@@ -22,9 +22,9 @@ foreach($categories as $cat){
                     <div class="row">
                         <div class="col-xl-6 col-md-6">
                             <div class="slider_content">
-                                <h1>Next level of Drone</h1>
-                                <h2>Insane Quality for use</h2>
-                                <p>Special offer <span> 20% off </span> this week</p>
+                                <h1>NEXT LEVEL OF FASHION</h1>
+                                <h2>STYLE THAT SPEAKS FOR YOU</h2>
+                                <p>Special Offer <span> 20% Off  </span> This Week</p>
                                 <a class="button" href="index.php?page=product-details">Buy now</a>
                             </div>
                         </div>
@@ -42,9 +42,9 @@ foreach($categories as $cat){
                     <div class="row">
                         <div class="col-xl-6 col-md-6">
                             <div class="slider_content">
-                                <h1>Best Camera Included</h1>
-                                <h2>100% Flexible</h2>
-                                <p>exclusive offer <span> 20% off </span> this week</p>
+                                <h1>BEST QUALITY & STYLE</h1>
+                                <h2>100% COMFORT GUARANTEED</h2>
+                                <p>Exclusive Offer <span> 20% off </span> this week</p>
                                 <a class="button" href="index.php?page=product-details">Shop now</a>
                             </div>
                         </div>                        
@@ -61,9 +61,9 @@ foreach($categories as $cat){
                     <div class="row">
                         <div class="col-xl-6 col-md-6">
                             <div class="slider_content">
-                                <h1>With some gifts</h1>
-                                <h2>Special one for you</h2>
-                                <p>exclusive offer <span> 20% off </span> this week</p>
+                                <h1>GET YOUR PERFECT LOOK</h1>
+                                <h2>SPECIAL DEALS JUST FOR YOU</h2>
+                                <p>Exclusive Offer <span> 20% off </span> this week</p>
                                 <a class="button" href="index.php?page=product-details">shopping now</a>
                             </div>
                         </div>                      

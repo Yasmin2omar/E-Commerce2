@@ -11,11 +11,12 @@ $items=$cart->getItems();
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>Drophut - Single Product eCommerce Template</title>
+    <title>Kraliçe</title>
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- Favicon -->
-    <link rel="shortcut icon" type="image/x-icon" href="/project3-e-commerce-main/assets/img/favicon.ico">
+    <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>👑</text></svg>">
+
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
 
     <!-- CSS 
@@ -224,7 +225,7 @@ $items=$cart->getItems();
                     <div class="row align-items-center">
                         <div class="col-lg-3 col-md-6">
                             <div class="logo">
-                                <a href="../../project3-e-commerce-main/index.php?page=home"><img src="/project3-e-commerce-main/assets/img/logo/logo.png" alt=""></a>
+                                <a href="../../project3-e-commerce-main/index.php?page=home"><img src="/project3-e-commerce-main/assets/img/logo/Kraliçe.png" alt=""></a>
                             </div>
                         </div>
                         <div class="col-lg-9 col-md-6">
